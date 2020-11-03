@@ -724,7 +724,7 @@ fancybox: true
 mermaid:
   enable: false
   # built-in themes: default/forest/dark/neutral
-  theme: default
+  theme: butterfly
 
 # Note (Bootstrap Callout)
 note:
